@@ -1,0 +1,16 @@
+.header-large {
+    color: green;
+}
+
+.image-small {
+    width: 200px;
+    height: auto;
+}
+
+.href-grey {
+    color: grey;
+}
+
+.no-decoration {
+    text-decoration: none;
+}
